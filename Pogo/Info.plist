@@ -2,11 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>REVISION</key>
+	<string>bb74d4b</string>
 	<key>TSRootBinaries</key>
 	<array>
 		<string>PogoHelper</string>
 	</array>
-	<key>REVISION</key>
-	<string></string>
 </dict>
 </plist>
